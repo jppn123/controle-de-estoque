@@ -1,4 +1,4 @@
-# gerenciamento-de-estoque
+# controle-de-estoque
 Você deve criar o algoritmo de uma plaicação para gerenciamento do estoque de uma loja de jogos
 
 Cada jogo possui um título (string), um ano de lançamento (inteiro), uma plataforma (Nintendo Switch, Playstation 5, XBOX Series X e S, PC) (string), um gênero (string), um preço (float) e a quantidade de unidades do jogo no estoque (inteiro).
